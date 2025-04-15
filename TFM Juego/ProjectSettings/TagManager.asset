@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Ground
+  - Moneda2D
+  - Moneda3D
+  - Moneda
+  - Coger
+  - Muerte
+  - Enemy
+  - 2DZone
+  - EnemyDamage
+  - Gema
+  - Cheackpoint
+  - Espada
+  - Moneda1
+  - Moneda2
+  - Moneda5
+  - Nuve
+  - Pies
+  - Heart
+  - Cofre
+  - Barrera
+  - ChangeView
+  - 2DZone2
+  - 3DZone
+  - 2DZone1
+  - Descanso
+  - Checkpoint
+  - Map1
+  - Map2
+  - Map3
+  - Map4
+  - PiesPlayer
+  - IsleCam
+  - Check1
+  - Check2
+  - Canon
+  - MiniCheck
+  - Textos
+  - Rain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

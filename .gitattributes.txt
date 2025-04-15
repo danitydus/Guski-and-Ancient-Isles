@@ -1,0 +1,28 @@
+# Archivos de Unity: asegurarse de que los archivos de texto tengan salto de línea LF
+*.meta text eol=lf
+*.prefab text eol=lf
+*.unity text eol=lf
+*.shader text eol=lf
+*.cs text eol=lf
+*.asmdef text eol=lf
+
+# Archivos binarios de Unity: no realizar ninguna conversión de saltos de línea
+*.fbx binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.tga binary
+*.psd binary
+
+# Archivos específicos del sistema operativo: no subir archivos generados por el sistema
+.DS_Store binary
+Thumbs.db binary
+
+# Archivos generados por Unity: no subir los archivos temporales o generados
+Library/ export-ignore
+Temp/ export-ignore
+Obj/ export-ignore
+Build/ export-ignore
+Builds/ export-ignore
